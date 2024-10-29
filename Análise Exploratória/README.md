@@ -8,35 +8,32 @@ Este notebook documenta cada passo do processo de modelagem de dados, dividido e
 
 | Célula | Descrição |
 |--------|-----------|
-| 1      | [Comentário da célula 1] |
-| 2      | [Comentário da célula 2] |
-| 3      | [Comentário da célula 3] |
-| 4      | [Comentário da célula 4] |
-| 5      | [Comentário da célula 5] |
-| 6      | [Comentário da célula 6] |
-| 7      | [Comentário da célula 7] |
-| 8      | [Comentário da célula 8] |
-| 9      | [Comentário da célula 9] |
-| 10     | [Comentário da célula 10] |
-| 11     | [Comentário da célula 11] |
-| 12     | [Comentário da célula 12] |
-| 13     | [Comentário da célula 13] |
-| 14     | [Comentário da célula 14] |
-| 15     | [Comentário da célula 15] |
-| 16     | [Comentário da célula 16] |
-| 17     | [Comentário da célula 17] |
-| 18     | [Comentário da célula 18] |
-| 19     | [Comentário da célula 19] |
-| 20     | [Comentário da célula 20] |
-| 21     | [Comentário da célula 21] |
-| 22     | [Comentário da célula 22] |
-| 23     | [Comentário da célula 23] |
-| 24     | [Comentário da célula 24] |
-| 25     | [Comentário da célula 25] |
-| 26     | [Comentário da célula 26] |
-| 27     | [Comentário da célula 27] |
-| 28     | [Comentário da célula 28] |
-| 29     | [Comentário da célula 29] |
+| 1      | [Importação de Bibliotecas] |
+| 2      | [Coletando Dados] |
+| 3      | [Formato dos dados] |
+| 4      | [Introdução dos dados] |
+| 5      | [Informações dos dados] |
+| 6      | [Data dos Dados] |
+| 7      | [Descrição dos dados] |
+| 8      | [Valores Nulos do DataFrame] |
+| 9      | [Valores Únicos dos dados] |
+| 10     | [Agrupando Variável Categórica] |
+| 11     | [Agrupando Variável Categórica] |
+| 12     | [Agrupando Variável Categórica] |
+| 13     | [Agrupando Variável Categórica] |
+| 14     | [Agrupando Variável Categórica] |
+| 15     | [Gráfico Status por Sexo e Forma Aquisição] |
+| 16     | [Gráfico Status por Duração de Contrato] |
+| 17     | [Gráfico Status por Tipo de Plano] |
+| 18     | [Gráfico de Status dos clientes] |
+| 19     | [Visualizando Variáveis numéricas] |
+| 20     | [Quantidade de Variáveis numéricas] |
+| 21     | [Boxplot para Outliers] |
+| 22     | [Possível Outlier] |
+| 23     | [Identificação de Outliers] |
+| 24     | [Agrupando um Outlier] |
+| 25     | [Indentificado um Outlier] |
+| 26     | [Verificando quais registros tem Outlier] |
 
 ---
 
