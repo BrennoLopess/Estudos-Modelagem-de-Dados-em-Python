@@ -8,39 +8,39 @@ Este notebook documenta cada passo do processo de modelagem de dados, dividido e
 
 | Célula | Descrição |
 |--------|-----------|
-| 1      | [Importação de Bibliotecas] |
-| 2      | [Coletando Dados] |
-| 3      | [Formato dos dados] |
-| 4      | [Introdução dos dados] |
-| 5      | [Informações dos dados] |
-| 6      | [Data dos Dados] |
-| 7      | [Descrição dos dados] |
-| 8      | [Valores Nulos do DataFrame] |
-| 9      | [Valores Únicos dos dados] |
-| 10     | [Agrupando Variável Categórica] |
-| 11     | [Agrupando Variável Categórica] |
-| 12     | [Agrupando Variável Categórica] |
-| 13     | [Agrupando Variável Categórica] |
-| 14     | [Agrupando Variável Categórica] |
-| 15     | [Gráfico Status por Sexo e Forma Aquisição] |
-| 16     | [Gráfico Status por Duração de Contrato] |
-| 17     | [Gráfico Status por Tipo de Plano] |
-| 18     | [Gráfico de Status dos clientes] |
-| 19     | [Visualizando Variáveis numéricas] |
-| 20     | [Quantidade de Variáveis numéricas] |
-| 21     | [Boxplot para Outliers] |
-| 22     | [Possível Outlier] |
-| 23     | [Identificação de Outliers] |
-| 24     | [Agrupando um Outlier] |
-| 25     | [Indentificado um Outlier] |
-| 26     | [Verificando quais registros tem Outlier] |
+| 1      | Importação de Bibliotecas |
+| 2      | Coletando Dados |
+| 3      | Formato dos dados |
+| 4      | Introdução dos dados |
+| 5      | Informações dos dados |
+| 6      | Data dos Dados |
+| 7      | Descrição dos dados |
+| 8      | Valores Nulos do DataFrame |
+| 9      | Valores Únicos dos dados |
+| 10     | Agrupando Variável Categórica |
+| 11     | Agrupando Variável Categórica |
+| 12     | Agrupando Variável Categórica |
+| 13     | Agrupando Variável Categórica |
+| 14     | Agrupando Variável Categórica |
+| 15     | Gráfico Status por Sexo e Forma Aquisição |
+| 16     | Gráfico Status por Duração de Contrato |
+| 17     | Gráfico Status por Tipo de Plano |
+| 18     | Gráfico de Status dos clientes |
+| 19     | Visualizando Variáveis numéricas |
+| 20     | Quantidade de Variáveis numéricas |
+| 21     | Boxplot para Outliers |
+| 22     | Possível Outlier |
+| 23     | Identificação de Outliers |
+| 24     | Agrupando um Outlier |
+| 25     | Indentificado um Outlier |
+| 26     | Verificando quais registros tem Outlier |
 
 ---
 
 ## Descrição por Célula
 
 ### Célula 1
-**Descrição**: _[Comentário detalhado sobre a funcionalidade e objetivo da célula 1]_.
+**Descrição**: Importando as bibliotecas e pacotes necessários para as análises.
 
 ---
 
