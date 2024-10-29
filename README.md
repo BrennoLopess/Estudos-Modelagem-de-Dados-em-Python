@@ -31,7 +31,3 @@ O objetivo final é construir um entendimento sólido sobre técnicas de modelag
 - **Classificadores**: Aplicar algoritmos de classificação para prever categorias.
 - **Séries Temporais**: Entender e prever dados ao longo do tempo.
 
-## Como Usar Este Repositório
-- Clone o repositório:
-  ```bash
-  git clone https://github.com/seu_usuario/Estudos-Modelagem-de-Dados-em-Python.git
