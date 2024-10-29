@@ -40,12 +40,12 @@ Este notebook documenta cada passo do processo de modelagem de dados, dividido e
 ## Descrição por Célula
 
 ### Célula 1
-**Descrição**: Importando as bibliotecas e pacotes necessários para as análises.
+**Descrição**: _Importando as bibliotecas e pacotes necessários para as análises_.
 
 ---
 
 ### Célula 2
-**Descrição**: _[Comentário detalhado sobre a funcionalidade e objetivo da célula 2]_.
+**Descrição**: _Coletando os dados do arquivo csv, os dados são a respeito de uma empresa de televisão_.
 
 ---
 
