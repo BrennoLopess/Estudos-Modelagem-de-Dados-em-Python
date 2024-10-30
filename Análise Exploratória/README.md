@@ -1,6 +1,6 @@
 # Análise e Modelagem de Dados em Python
 
-Este notebook documenta cada passo do processo de modelagem de dados, dividido em 29 células. Cada célula está descrita abaixo para facilitar o entendimento e a navegação.
+Este notebook documenta cada passo do processo de modelagem de dados, dividido em 26 células. Cada célula está descrita abaixo para facilitar o entendimento e a navegação.
 
 ---
 
