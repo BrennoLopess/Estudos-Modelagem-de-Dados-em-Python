@@ -8,16 +8,16 @@ Este notebook documenta cada passo do processo de modelagem de dados, dividido e
 
 | Célula | Descrição |
 |--------|-----------|
-| 27      | Importação de Bibliotecas |
-| 28      | Coletando Dados |
-| 29      | Formato dos dados |
-| 30      | Introdução dos dados |
-| 31      | Informações dos dados |
-| 32      | Data dos Dados |
-| 33      | Descrição dos dados |
-| 34      | Valores Nulos do DataFrame |
-| 35      | Valores Únicos dos dados |
-| 36     | Agrupando Variável Categórica |
+| 27      | Montando novo DataFrame |
+| 28      | Agrupando Variável |
+| 29      | Mediana, Média e Moda |
+| 30      | Preenchendo Valores Nulos |
+| 31      | Trocando Tipo de Variável Categórica |
+| 32      | Visualizando linhas do novo DataSet |
+| 33      | Informações do novo DataSet |
+| 34      | Tratando Outlier |
+| 35      | Alterando Registros |
+| 36     | Checando o Tratamento do Outlier |
 
 ---
 
