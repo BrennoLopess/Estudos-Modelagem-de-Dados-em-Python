@@ -174,18 +174,3 @@ PLANO PREMIUM TOTAL_.
 **Descrição**: _realizo uma função para mostrar os registros que estão com esses valores 'anormais' de QT_FILHOS. Com esse print tenho acesso a todas as informações dos registros que constam esses outliers, assim como seu ID..._.
 
 ---
-
-### Célula 27
-**Descrição**: _[Comentário detalhado sobre a funcionalidade e objetivo da célula 27]_.
-
----
-
-### Célula 28
-**Descrição**: _[Comentário detalhado sobre a funcionalidade e objetivo da célula 28]_.
-
----
-
-### Célula 29
-**Descrição**: _[Comentário detalhado sobre a funcionalidade e objetivo da célula 29]_.
-
----
