@@ -23,8 +23,10 @@ O dataset foi obtido do [Kaggle](https://www.kaggle.com/) e contém informaçõe
 - `Overall`: Avaliação geral do jogador (variável alvo).
 - `Attributes`: Atributos técnicos e físicos, como velocidade, finalização, etc.
 
-## 🚀 Como Executar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+## 🧪 Resultados
+O modelo foi avaliado usando métricas de regressão como:
+- **R² Score**
+- **Mean Absolute Error (MAE)**
+- **Mean Squared Error (MSE)**
+
+Os resultados indicam que o modelo é eficiente para prever o **Overall**, dentro das limitações do dataset.
