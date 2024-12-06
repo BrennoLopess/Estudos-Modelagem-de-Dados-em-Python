@@ -1,5 +1,3 @@
-# Criar o conteúdo do README
-readme_content = """
 # Modelo Preditivo de Overall de Jogadores do FIFA
 
 Este projeto implementa um modelo de regressão linear para prever o **Overall** de jogadores do FIFA com base em dados extraídos de um dataset disponível no Kaggle. 
